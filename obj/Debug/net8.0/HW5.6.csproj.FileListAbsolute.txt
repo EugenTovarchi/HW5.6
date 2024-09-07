@@ -1,0 +1,14 @@
+C:\Users\Yudjine\source\repos\Recusion\bin\Debug\net8.0\HW5.6.exe
+C:\Users\Yudjine\source\repos\Recusion\bin\Debug\net8.0\HW5.6.deps.json
+C:\Users\Yudjine\source\repos\Recusion\bin\Debug\net8.0\HW5.6.runtimeconfig.json
+C:\Users\Yudjine\source\repos\Recusion\bin\Debug\net8.0\HW5.6.dll
+C:\Users\Yudjine\source\repos\Recusion\bin\Debug\net8.0\HW5.6.pdb
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.AssemblyInfoInputs.cache
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.AssemblyInfo.cs
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.csproj.CoreCompileInputs.cache
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.dll
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\refint\HW5.6.dll
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.pdb
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\HW5.6.genruntimeconfig.cache
+C:\Users\Yudjine\source\repos\Recusion\obj\Debug\net8.0\ref\HW5.6.dll
